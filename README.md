@@ -1,3 +1,5 @@
 EasyStore Ecom Sdh Bhd Assignment
 
-Login Function with Facebook & Google 
+Login Function Facebook & Google 
+
+Laravel framework PHP
